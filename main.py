@@ -25,7 +25,7 @@ ADMIN_CHAT_IDS = ["8105949422"] # Example: ["YOUR_ADMIN_USER_ID_1", "YOUR_ADMIN_
 # =================================================================
 
 # Old chat IDs kept for the first run
-INITIAL_CHAT_IDS = ["-1003779188250"] 
+INITIAL_CHAT_IDS = ["-5086444302"] 
 
 LOGIN_URL = "https://ivas.tempnum.qzz.io/login"
 BASE_URL = "https://ivas.tempnum.qzz.io"
